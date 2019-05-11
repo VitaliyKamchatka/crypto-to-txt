@@ -1,2 +1,2 @@
 # crypto-to-txt
-bit to txt
+bin to txt
